@@ -1,0 +1,24 @@
+{
+  "name": "email-registration-spike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "nodemailer": "latest",
+    "express": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prime-MNTherapistFinder/email-registration-spike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prime-MNTherapistFinder/email-registration-spike/issues"
+  },
+  "homepage": "https://github.com/Prime-MNTherapistFinder/email-registration-spike#readme"
+}
